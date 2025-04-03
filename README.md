@@ -12,7 +12,7 @@
 </div></br>
 <div>
 <h3>Techs que estou trabalhando: </h3>
- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank" alt="Slack">
+<!-- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank" alt="Slack"> -->
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" alt="CSS"> -->
 <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank" alt="PHP"> -->
@@ -24,5 +24,5 @@
 <!-- <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank" alt="Unity"> -->
 </div></br>
 <h3>Faculdade que estou cursando:</h3>
-<li>Sisteamas de informção - Unasp-HT(Centro Universitário Adventista de São Paulo - Campus Hortolândia) 3/8</li>
+<li>Sisteamas de informção - Unasp-HT(Centro Universitário Adventista de São Paulo - Campus Hortolândia) 5/8</li>
 <hr>
